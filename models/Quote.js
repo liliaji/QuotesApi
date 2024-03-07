@@ -2,12 +2,11 @@ import mongoose from "mongoose";
 
 const Schema = mongoose.Schema
 
-let CharacterSchema = new Schema({
+let QuoteSchema = new Schema({
   "author": { type: String },
   "content": { type: String },
   "tag": { type: String },
   "length": { type: Number },
 })
 
-export default mongoose.model("characters", CharacterSchema)
-
+export default mongoose.model("quotes", QuoteSchema)
