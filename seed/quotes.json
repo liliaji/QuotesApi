@@ -2,6 +2,7 @@
 [
    {
       "author": "Thomas Edison",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "Hell, there are no rules here-- we're trying to accomplish something.",
       "tags": [],
       "authorSlug": "thomas-edison",
@@ -11,6 +12,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "As a cure for worrying, work is better than whisky.",
       "tags": ["Humorous"],
       "authorSlug": "thomas-edison",
@@ -20,6 +22,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope.",
       "tags": ["Religion"],
       "authorSlug": "thomas-edison",
@@ -29,6 +32,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "If we all did the things we are capable of doing, we would literally astound ourselves.",
       "tags": ["Inspirational", "Motivational"],
       "authorSlug": "thomas-edison",
@@ -38,6 +42,7 @@
     },
     {
       "author": "Charles Dickens",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some.",
       "tags": ["Gratitude"],
       "authorSlug": "charles-dickens",
@@ -47,6 +52,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "I never did anything worth doing by accident, nor did any of my inventions come by accident",
       "tags": ["Success", "Science"],
       "authorSlug": "thomas-edison",
@@ -56,6 +62,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "Everything comes to him who hustles while he waits.",
       "tags": ["Success", "Motivational"],
       "authorSlug": "thomas-edison",
@@ -65,6 +72,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "There is no expedient to which a man will not go to avoid the labor of thinking.",
       "tags": ["Work"],
       "authorSlug": "thomas-edison",
@@ -74,6 +82,7 @@
     },
     {
       "author": "Charles Dickens",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "Subdue your appetites, my dears, and you've conquered human nature.",
       "tags": [],
       "authorSlug": "charles-dickens",
@@ -83,6 +92,7 @@
     },
     {
       "author": "Charles Dickens",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "Train up a fig tree in the way it should go, and when you are old sit under the shade of it.",
       "tags": ["Age", "Wisdom"],
       "authorSlug": "charles-dickens",
@@ -92,6 +102,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
       "tags": ["Opportunity", "Work"],
       "authorSlug": "thomas-edison",
@@ -101,6 +112,7 @@
     },
     {
       "author": "Charles Dickens",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort.",
       "tags": ["Weakness"],
       "authorSlug": "charles-dickens",
@@ -110,6 +122,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.",
       "tags": ["Success", "Failure", "Perseverance"],
       "authorSlug": "thomas-edison",
@@ -119,6 +132,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "I never did a day's work in my life.  It was all fun.",
       "tags": ["Humorous"],
       "authorSlug": "thomas-edison",
@@ -128,6 +142,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease.",
       "tags": ["Health", "Wellness"],
       "authorSlug": "thomas-edison",
@@ -137,6 +152,7 @@
     },
     {
       "author": "Thomas Edison",
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "We don't know a millionth of one percent about anything.",
       "tags": ["Knowledge"],
       "authorSlug": "thomas-edison",
@@ -145,7 +161,8 @@
       "dateModified": "2023-04-14"
     },
     {
-      "author": "Thomas Edison",
+      "author": "Thomas Edison",      
+      "authorImage": "https://www.thelightbulb.co.uk/wp-content/uploads/2021/11/thomas-edison-1.jpg",
       "content": "To invent, you need a good imagination and a pile of junk.",
       "tags": ["Imagination", "Creativity", "Science", "Technology"],
       "authorSlug": "thomas-edison",
@@ -155,6 +172,7 @@
     },
     {
       "author": "Charles Dickens",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "We need never be ashamed of our tears.",
       "tags": ["Sadness"],
       "authorSlug": "charles-dickens",
@@ -164,6 +182,7 @@
     },
     {
       "author": "Charles Dickens",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "No one is useless in this world who lightens the burdens of another.",
       "tags": ["Generosity"],
       "authorSlug": "charles-dickens",
@@ -173,6 +192,7 @@
     },
     {
       "author": "Charles Dickens",
+      "authorImage": "https://miro.medium.com/v2/resize:fit:1050/1*mA7agvt3HkiMHTxRPujxHA.jpeg",
       "content": "I do not know the American gentleman, god forgive me for putting two such words together.",
       "tags": ["Humorous"],
       "authorSlug": "charles-dickens",
