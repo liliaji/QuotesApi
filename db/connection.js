@@ -6,7 +6,7 @@ mongoose.connect(connectionString)
 
 mongoose.set("returnOriginal", false);
 
-mongoose.connect(connectionString ``).catch((err) => {
+mongoose.connect(connectionString).catch((err) => {
   console.log(`Error connection to MongoDB: ${err.message}`);
 });
 
