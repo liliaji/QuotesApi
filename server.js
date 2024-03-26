@@ -8,8 +8,6 @@ import chalk from "chalk";
 const app = express();
 const PORT = process.env.PORT || 3000;
 
-console.log(process.env.PORT)
-
 app.use(express.json());
 app.use(cors());
 app.use(logger("dev"));
